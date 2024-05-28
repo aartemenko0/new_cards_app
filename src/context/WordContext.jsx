@@ -1,5 +1,5 @@
 import React, { useState, createContext, useEffect } from "react";
-const API_ALL_WORDS = "http://itgirlschool.justmakeit.ru/api/words";
+const API_ALL_WORDS = "https://itgirlschool.justmakeit.ru/api/words";
 
 const WordContext = createContext();
 

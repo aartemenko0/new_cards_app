@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://itgirlschool.justmakeit.ru",
+  "proxy": "https://itgirlschool.justmakeit.ru",
   "eslintConfig": {
     "extends": [
       "react-app",
