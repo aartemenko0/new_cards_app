@@ -1,0 +1,60 @@
+const data = [
+  {
+    id: "15393",
+    english: "news",
+    transcription: "[njuːs]",
+    russian: "новости",
+    tags: "general",
+    tags_json: '["general"]',
+  },
+  {
+    id: "15400",
+    english: "garbage",
+    transcription: "[garba:ge]",
+    russian: "мусор",
+    tags: "general",
+    tags_json: '["general"]',
+  },
+  {
+    id: "15405",
+    english: "house",
+    transcription: "[haus]",
+    russian: "дом",
+    tags: "general",
+    tags_json: '["general"]',
+  },
+  {
+    id: "15406",
+    english: "sun",
+    transcription: "[sʌn]",
+    russian: "солнце",
+    tags: "nature",
+    tags_json: '["nature"]',
+  },
+  {
+    id: "15407",
+    english: "plane",
+    transcription: "[pleɪn]",
+    russian: "самолет",
+    tags: "transport",
+    tags_json: '["transport"]',
+  },
+  {
+    id: "15408",
+    english: "butterfly",
+    transcription: "[ˈbʌtəflaɪ]",
+    russian: "бабочка",
+    tags: "nature",
+    tags_json: '["nature"]',
+  },
+  {
+    id: "15410",
+    english: "example",
+    transcription: "[example]",
+    russian: "пример",
+    tags: "general",
+    tags_json: '["general"]',
+  },
+];
+
+export default data;

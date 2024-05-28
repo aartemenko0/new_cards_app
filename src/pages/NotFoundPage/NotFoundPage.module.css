@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; 
+}
+
+.main__error {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.main__image img {
+  width: 250px; 
+  height: 150px; 
+}
+
+.main__redirect {
+  margin-top: 20px;
+}
+
+.link {
+  text-decoration: none; 
+}
+
+.link:hover {
+  text-decoration: underline; 
+}

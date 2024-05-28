@@ -1,0 +1,27 @@
+.tableContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 80vh;
+  margin-top: 200px;
+}
+
+.addNewWordContainer {
+  margin-bottom: 5vh; 
+}
+
+.table {
+  margin: 0 auto;
+  margin-bottom: 200px;
+  border: 2px solid purple;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}

@@ -1,0 +1,36 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #bcb3b3;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+img {
+  width: 250px;
+  height: 65px;
+}
+
+nav {
+  margin-left: auto;
+  font-family: 'Ubuntu';
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
